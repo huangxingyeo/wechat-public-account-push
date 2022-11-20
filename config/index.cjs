@@ -14,12 +14,12 @@ const USER_CONFIG = {
   APP_SECRET: '97bd6e4b6ed0fb88db7b4db455e41b24',
 
   PROVINCE: '江西',
-  CITY: '上饶',
+  CITY: '铅山',
 
   USERS: [
     {
       // 想要发送的人的名字
-      name: '乐宝',
+      name: 'Z76',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oFRPq5zOlOJbGnlHLeTi-qFwQCJY',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
@@ -72,7 +72,7 @@ const USER_CONFIG = {
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
-        { keyword: 'love_day', date: '2022-09-08' },
+        { keyword: 'love_day', date: '2017-04-08' },
         // 结婚纪念日
         { keyword: 'marry_day', date: '2022-09-09' },
       ],
