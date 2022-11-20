@@ -14,14 +14,14 @@ const USER_CONFIG = {
   APP_SECRET: '97bd6e4b6ed0fb88db7b4db455e41b24',
 
   PROVINCE: '江西',
-  CITY: '铅山',
+  CITY: '上饶',
 
   USERS: [
     {
       // 想要发送的人的名字
       name: 'Z76',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oFRPq5zOlOJbGnlHLeTi-qFwQCJY',
+      id: 'oFRPq53UCwpewKprzlX6-7yHwuck',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '0C8RJTQq-jR3vz-69nErPuED3u6qmIPeQl3eCXu_VKw',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
